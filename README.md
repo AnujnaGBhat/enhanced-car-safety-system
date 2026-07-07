@@ -35,7 +35,7 @@ Road traffic accidents are a leading cause of injury and death worldwide, and de
 - Arduino IDE
 - C++ (Arduino firmware)
 
-## 📊 Results
+##  Results
 
 - Accurately detects collisions using vibration sensor data.
 - Minimizes false positives via filtering/debouncing.

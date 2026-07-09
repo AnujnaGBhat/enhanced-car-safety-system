@@ -73,4 +73,4 @@ Road traffic accidents are a leading cause of injury and death worldwide, and de
 
 ##  Paper Publication
 
-Paper was published in the Grenze Scientific Society entitled as"Design and Development of Enhanced Car SafetySystem " in the year 2024.(https://drive.google.com/file/d/14fFmXGquv8QropdXoqemUUmMEst6w_h7/view?usp=sharing)
+Paper was published in the Grenze Scientific Society entitled as"Design and Development of Enhanced Car SafetySystem ",in the year 2024.(https://drive.google.com/file/d/14fFmXGquv8QropdXoqemUUmMEst6w_h7/view?usp=sharing)
